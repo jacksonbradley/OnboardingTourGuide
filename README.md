@@ -3,6 +3,8 @@ OnboardingTourGuide
 
 An easy-to-use API that allows you to add onboarding tips anywhere in your application. SFOnboardingTourGuide allows you to display onboarding tips depending on whether the specific tip qualifies to be shown at a given point in time.
 
+![Onboaring Example](https://github.com/SalesforceEng/OnboardingTourGuide/raw/master/Gif/onboarding.gif)
+
 How to Use:
 ===========
 1. Clone this project:
